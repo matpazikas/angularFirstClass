@@ -14,6 +14,7 @@ export class DecoradorInputComponent {
   frutas = ["Maçã", "Banana", "Abacaxi"]
 
   cadastro = [
+    // Lista Pessoas
     {nome: "Matheus", idade: 19, email: "pazis@dickcock.com"},
     {nome: "Marcelo", idade: 19, email: "celo@dickcock.com"},
     {nome: "Miguel", idade: 19, email: "miii@dickcock.com"}
